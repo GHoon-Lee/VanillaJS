@@ -1,2 +1,3 @@
 # VanillaJS
- 
+
+first JS practice!
