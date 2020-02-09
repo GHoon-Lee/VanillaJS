@@ -12,7 +12,6 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
 }
 .form,
 .greetings {
@@ -39,4 +38,19 @@ body {
   height: 100%;
   z-index: -1;
   animation: fadeIn 0.5s linear;
+}
+.js-clock {
+  font-size: 100px;
+  color: rgb(247, 211, 211);
+  margin-top: 350px;
+  margin-bottom: 30px;
+}
+
+.js-form input {
+  font-size: 30px;
+}
+
+.js-greetings {
+  font-size: 36px;
+  margin-bottom: 20px;
 }
